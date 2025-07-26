@@ -67,5 +67,5 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 ---
 
 ## Acknowledgments
-- Inspired by **existing VR/AR rehabilitation techniques** for PLP management.
+- Inspired by **existing traditional and VR/AR rehabilitation techniques** for PLP management.
 - Developed with the support of **Politecnico di Milano**.
